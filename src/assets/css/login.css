@@ -1,0 +1,9 @@
+.container {
+    margin-top: 10%;
+}
+
+
+.container-logo {
+    display: flex;
+    justify-content: center;
+}

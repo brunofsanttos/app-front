@@ -1,4 +1,5 @@
 import Dashboard from "views/Dashboard.js";
+import Login from 'layouts/Login'
 
 
 var routes = [
